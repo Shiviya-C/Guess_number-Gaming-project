@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Guess_number/static/css/main.6d940db8.css",
+    "main.js": "/Guess_number/static/js/main.bc2d22c6.js",
+    "static/js/453.7c00ba84.chunk.js": "/Guess_number/static/js/453.7c00ba84.chunk.js",
+    "static/media/think_img.avif": "/Guess_number/static/media/think_img.22b7c2cadad01e124419.avif",
+    "index.html": "/Guess_number/index.html",
+    "main.6d940db8.css.map": "/Guess_number/static/css/main.6d940db8.css.map",
+    "main.bc2d22c6.js.map": "/Guess_number/static/js/main.bc2d22c6.js.map",
+    "453.7c00ba84.chunk.js.map": "/Guess_number/static/js/453.7c00ba84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d940db8.css",
+    "static/js/main.bc2d22c6.js"
+  ]
+}
